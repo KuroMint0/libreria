@@ -1,0 +1,11 @@
+Herramienta usada = Copilot Chat
+Qué le pediste = Que me dijera qué era lo que iba el en gitignore
+Qué archivos generó = No generó archivos, solo me dio una lista de las posibles adiciones al gitignore (.venv y __pycache__)
+Qué cambiaste después = Cree el archivo .gitignore y le puse el .venv y el __pycache__
+
+Qué le pediste = Estoy intentando darle un permiso al grupo "auditor" para que pueda ver las 
+                 acciones que realizaron los otros usuarios, pero es solo eso, solo puede ver, pero al momento 
+                 de ingresar al panel con la cuenta de auditor solo le aparecen las acciones que ÉL realizó.
+Qué archivos generó = Modificó las templates del panel de admin
+Qué cambiaste después = Le pedí que no aplicara lo cambios que había hecho, para que así quedaran los archivos como antes
+                        de que le pidiera esta instrucción.
